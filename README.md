@@ -48,6 +48,7 @@ Resources for NFT creators and Web3 developers:
 ## Gateway & Infrastructure
 Information about IPFS gateways and infrastructure:
 
+- [Pre-Signed URLs: The Key to Gated IPFS Content](https://filebase.com/blog/pre-signed-urls-the-key-to-gated-ipfs-content-2/) - Access control guide
 - [IPFS Gateway Explained: How It Works](https://filebase.com/blog/ipfs-gateway-explained-how-it-works/) - Gateway functionality guide
 - [IPFS Dedicated Gateways Explained](https://filebase.com/blog/ipfs-dedicated-gateways-explained/) - Deep dive into dedicated gateways
 - [Optimizing Global IPFS Performance with Custom Gateways & CDN](https://filebase.com/blog/optimizing-global-ipfs-performance-with-custom-gateways-cdn/) - Performance optimization
