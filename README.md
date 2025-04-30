@@ -201,19 +201,12 @@ More platform capabilities:
 - [Pagination](https://filebase.com/blog/pagination/) - Content organization
 - [Filebase 2019 Holiday Update: Public Buckets, ACLs, File Sharing and More](https://filebase.com/blog/filebase-2019-holiday-update-public-buckets-acls-file-sharing-and-more/) - Feature update
 
-## Recent Updates
-Latest content additions (April 2025):
-
-- [Upholding a Free Tier: The IPFS Challenge](https://filebase.com/blog/upholding-a-free-tier-the-ipfs-challenge/)
-- [Why IPFS is the Infrastructure Move Meme Coins Need](https://filebase.com/blog/why-ipfs-is-the-infrastructure-move-meme-coins-need-2/)
-- [How Do I Upload to IPFS?](https://filebase.com/blog/how-do-i-upload-to-ipfs/)
-- [What is Pinning?](https://filebase.com/blog/what-is-pinning/)
 
 ## Contributing
 This archive is maintained by the Filebase team. For corrections or suggestions, please open an issue or submit a pull request.
 
 ---
 ## License
-This content archive is proprietary and confidential. All blog posts linked within this archive are © 2024 Filebase. All rights reserved.
+All blog posts linked within this archive are © 2024 Filebase. All rights reserved.
 
 The organization and categorization of this archive is maintained by Filebase and its contributors. Redistribution of this archive structure or its contents is not permitted without express written permission from Filebase.
